@@ -35,7 +35,7 @@ define gui.about = _p("""
 
 define build.name = "ban_ren_jian"
 define build.directory_name = "ban_ren_jian"
-define build.destination = "{directory_name}/game/dists"
+define build.destination = "{directory_name}/game/docs"
 
 
 ## 音效和音乐 #######################################################################

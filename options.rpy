@@ -11,7 +11,7 @@
 ##
 ## 带有 _() 的字符串表示其可被翻译。
 
-define config.name = _("ban_ren_jian")
+define config.name = _("半人间")
 
 
 ## 决定上面给出的标题是否显示在主界面屏幕。设置为 False 来隐藏标题。
@@ -34,6 +34,8 @@ define gui.about = _p("""
 ## 且不得包含空格、冒号和分号。
 
 define build.name = "ban_ren_jian"
+define build.directory_name = "ban_ren_jian"
+define build.destination = "{directory_name}/game/dists"
 
 
 ## 音效和音乐 #######################################################################
